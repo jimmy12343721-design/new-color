@@ -1,0 +1,5 @@
+{
+  "name": "HWÀN Stained Glass Simulator",
+  "description": "A stained glass customization tool allowing users to select patterns, apply realistic glass textures, and see color codes directly on the artwork.",
+  "requestFramePermissions": []
+}
